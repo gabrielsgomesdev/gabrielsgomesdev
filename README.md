@@ -1,7 +1,7 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](.github/profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
