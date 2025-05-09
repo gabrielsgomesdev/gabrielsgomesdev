@@ -13,7 +13,7 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,github,jest,linux,postman,styledcomponents,vercel,bootstrap,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,github,jest,linux,postman,vercel,bootstrap,postgres,discord,linkedin,instagram" />
 </a>
   <br />
 
@@ -24,19 +24,6 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=GabrielSG17&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
-
-
-  
- 
-
-
-
-
-
-
-
-
-- 😄 Pronouns: He/His
 
 <div>
   
