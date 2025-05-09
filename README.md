@@ -1,7 +1,17 @@
-### 🧑🏽‍💻 Hi there 👋, I'm Gabriel Souza Gomes
- ’m currently working as a Full Stack Developer
+ 👋 Hello! I'm a Full Stack Junior Developer focused on back-end with Node.js ⚙️ and front-end with Angular 🚀.
+ I'm passionate about turning ideas into functional, scalable, and well-structured web solutions. Despite being early in my career, I've mastered the Node.js ecosystem and confidently build complete applications.
 
-- 🤳🏽connect with me
+🌟 What I Do Best:
+
+Node.js Expert 🔧: I have strong command of Node.js back-end development, building RESTful APIs and microservices with performance, security, and best practices in mind.
+
+Angular in Action 🧩: I create rich and responsive user interfaces with Angular, always aiming for the best user experience.
+
+Cloud & Containers ☁️🐳: I have hands-on experience deploying and managing applications using Docker, as well as working with Microsoft Azure and AWS for scalable, cloud-native solutions.
+
+💼 I'm constantly learning, eager to take on new challenges, and growing as a developer — one line of code at a time.
+
+### 🤳🏽 Connect with me
   
   <div> 
   <a href="https://instagram.com/gabrielsouzagoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
