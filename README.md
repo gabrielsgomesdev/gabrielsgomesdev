@@ -9,7 +9,7 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielSG17&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielSG17&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
-
+##
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
@@ -18,23 +18,13 @@
   <br />
 
   </div>
-
  
 ##
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=GabrielSG17&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
-
-<div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelfm&show_icons=true&theme=dark)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelfm&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-  
-  ##
+##
  
 <div> 
   <a href="https://instagram.com/gabrielsouzagoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
