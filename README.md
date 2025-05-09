@@ -7,7 +7,7 @@
 
 ##
 
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
+<a href="[https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA](https://open.spotify.com/user/oo2bylwoguxwn3arvqjyvoeos?si=6e79137329884792&nd=1&dlsi=f620b17b5c954acf)">
   <img alt="Gab's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
  
