@@ -1,10 +1,6 @@
 ### Hi there 👋, I'm Gabriel Souza Gomes
 - 🔭 I’m currently working as a Full Stack Developer
-
-
-  ![Status](.github/profile-3d-contrib/profile-night-rainbow.svg)
-  
-
+##
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielSG17&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielSG17&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
