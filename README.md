@@ -1,48 +1,80 @@
- 👋 Hello! I'm a Full Stack Junior Developer focused on back-end with Node.js ⚙️ and front-end with Angular 🚀.
- I'm passionate about turning ideas into functional, scalable, and well-structured web solutions. Despite being early in my career, I've mastered the Node.js ecosystem and confidently build complete applications.
+# 👋 Hey! I'm Gabriel Gomes
 
-🌟 What I Do Best:
+I'm a **Full Stack Developer** focused on building **scalable, clean and resilient systems** — combining a strong **Node.js/NestJS backend ⚙️**, a polished **Angular frontend 🚀**, and modern engineering practices.
 
-Node.js Expert 🔧: I have strong command of Node.js back-end development, building RESTful APIs and microservices with performance, security, and best practices in mind.
+Currently working as a **Software Developer (PJ) in Vitória – Brazil**, where I build solutions using **Node.js, NestJS, Angular, TypeScript, PostgreSQL, Docker**, and cloud environments.  
+I value **software architecture**, **clean code**, **testing**, and **continuous improvement**.
 
-Angular in Action 🧩: I create rich and responsive user interfaces with Angular, always aiming for the best user experience.
+---
 
-Cloud & Containers ☁️🐳: I have hands-on experience deploying and managing applications using Docker, as well as working with Microsoft Azure and AWS for scalable, cloud-native solutions.
+## 🌟 What I Do Best
 
-💼 I'm constantly learning, eager to take on new challenges, and growing as a developer — one line of code at a time.
+### 🧠 Backend Engineering (Node.js / NestJS)
+- Design and development of **RESTful APIs** and **microservices**
+- Focus on **performance, security, maintainability, DDD e Clean Architecture**
+- SQL/NoSQL modeling, **PostgreSQL**, **Knex**, Migrations, Indexes
+- Experience with **AWS**, **Azure**, **Containers**, and CI/CD pipelines
+- Event-driven patterns, **Kafka**, caching, queues
+
+### 💻 Frontend Engineering (Angular)
+- Creation of scalable interfaces and **component-driven architectures**
+- State management, reactive programming with **RxJS**
+- UI frameworks: **PrimeNG**, **DevExtreme**, **Tailwind**, **Bootstrap**
+- Complex dashboards, data visualization, file export (Excel/PDF)
+
+### 🧰 Additional Skills
+- Docker, Docker Compose  
+- Git & GitHub workflow  
+- Testing: Jest, Jasmine, Supertest  
+- Experience with **C#** and **Entity Framework** (currently improving)
+- Knowledge in infrastructure: Active Directory, Hyper-V, networks, security
+
+---
+
+## 🔍 Currently Learning & Exploring
+- **Advanced Node.js patterns** (distributed systems, observability, resilience)
+- **C# + Entity Framework** for backend interoperability
+- **Kubernetes**, advanced CI/CD pipelines
+- Data processing, automation and export (**ExcelJS, PDF generation**)
+- Improving English for technical communication
+
+---
+
+## 🧭 Career Philosophy
+I believe code should be **simple, expressive, and scalable**.  
+Good software is built through:
+- **consistent learning**,  
+- **refactoring**,  
+- **testing**,  
+- and **thinking before typing**.
+
+Every commit is a step toward becoming a stronger engineer. 💪
+
+---
 
 ### 🤳🏽 Connect with me
-  
-  <div> 
-  <a href="https://instagram.com/gabrielsouzagoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielsouzagomes54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-souza-gomes-a6b265226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<div> 
+  <a href="https://instagram.com/gabrielsouzagoms" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gabrielsouzagomes54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-souza-gomes-a6b265226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
- 
-##
-  
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielsgomesdev&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsgomesdev&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
 
-##
+---
 
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,docker,github,jest,linux,postman,vercel,bootstrap,postgres,discord,linkedin,instagram" />
-</a>
-  <br />
+| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielsgomesdev&theme=dracula&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsgomesdev&theme=dracula) |
+| ----------- | ----------- |
 
-  </div>
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=gabrielsgomesdev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
-##
+---
 
-  
-  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,angular,nodejs,react,express,nest,docker,github,jest,postgres,linux,azure,aws,vercel,postman,tailwind,bootstrap,sass,csharp" />
+</div>
 
-  
+---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielsgomesdev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+
+---
