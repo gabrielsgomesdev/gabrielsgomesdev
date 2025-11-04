@@ -72,9 +72,3 @@ Every commit is a step toward becoming a stronger engineer. 💪
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielsgomesdev&theme=dracula&margin-w=15&margin-h=15&no-frame=true&row=1" />
-</div>
-
----
