@@ -125,9 +125,9 @@ Every system is an opportunity to grow as an engineer.
 
 # 📊 GitHub Activity
 
-| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielsgomesdev&theme=dracula&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsgomesdev&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsgomesdev&layout=compact&theme=dracula)
-| ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielsgomesdev&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsgomesdev&show_icons=true&theme=dracula)
- |
+| ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielsgomesdev\&theme=dracula\&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsgomesdev\&theme=dracula) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+
 
 ---
 
