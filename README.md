@@ -1,8 +1,8 @@
 # Hey, I'm Gabriel Gomes 👋
 
-**Fullstack Software Engineer** — Node.js • NestJS • Angular • PostgreSQL
+**Fullstack Software Engineer** working with Node.js, NestJS, Angular and PostgreSQL
 
-I build scalable backend systems and modernize legacy applications, delivering full-stack solutions end to end. Lately also working with AI pipelines — RAG, embeddings, LLM-powered automation.
+I build scalable backend systems and modernize legacy applications, delivering full-stack solutions end to end. Lately I'm also working with AI pipelines, including RAG, embeddings and LLM-powered automation.
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,nestjs,angular,react,postgres,prisma,redis,docker,aws,dotnet,kubernetes" />
@@ -10,9 +10,9 @@ I build scalable backend systems and modernize legacy applications, delivering f
 
 ## Focus
 
-- **Backend** — REST APIs, microservices, event-driven design, Clean Architecture / DDD, queues & caching, testing (Jest, Supertest)
-- **Frontend** — Angular & React, RxJS, dashboards, reusable component/design systems
-- **AI** — RAG pipelines, embeddings/vector search, automation for data extraction & classification
+- **Backend**: REST APIs, microservices and event-driven design, using Clean Architecture / DDD, queues and caching, plus testing with Jest and Supertest
+- **Frontend**: Angular and React, RxJS, dashboards, and reusable component/design systems
+- **AI**: RAG pipelines and embeddings/vector search, for automation of data extraction and classification
 
 ## Connect
 
